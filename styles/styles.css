@@ -72,15 +72,15 @@ span .font-pair1b{
 }
 
 .first-section-background {
-  background: url("https://cdn.guff.com/site_2/media/32000/31903/items/f1ec8b5eeacc67607f7e76a6.jpg") no-repeat fixed bottom;
+  background: url("https://cdn.guff.com/site_2/media/32000/31903/items/f1ec8b5eeacc67607f7e76a6.jpg") no-repeat fixed top;
 }
 
 .second-section-background {
-  background: url("https://pbs.twimg.com/media/EPkYHtQXkAAVNAj.jpg") no-repeat fixed bottom;
+  background: url("https://pbs.twimg.com/media/EPkYHtQXkAAVNAj.jpg") no-repeat fixed top;
 }
 
 .third-section-background {
-  background: url("https://uploads.dailydot.com/2b5/e2/f149b50bf4317a92-e1497292886647.jpg?auto=compress&fm=pjpg&ixlib=php-3.3.0") no-repeat fixed bottom;
+  background: url("https://uploads.dailydot.com/2b5/e2/f149b50bf4317a92-e1497292886647.jpg?auto=compress&fm=pjpg&ixlib=php-3.3.0") no-repeat fixed top;
 }
 
 .with-background {
